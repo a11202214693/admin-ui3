@@ -38,7 +38,7 @@ import {
  
     return (
       <GaugeContainer
-        width={130}
+        width={170}
         height={100}
         startAngle={-90}
         endAngle={90}
